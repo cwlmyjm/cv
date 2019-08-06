@@ -2,13 +2,14 @@
 ## C++工程师
 > 手机：171********    
 > 邮箱：me@ysyy.xyz  
-> Github： https://github.com/cwlmyjm
+> Github：https://github.com/cwlmyjm  
+> Codewars：![Codewars](https://www.codewars.com/users/cwlmyjm/badges/micro)  
 
 ### 关于我
 - 2年工作经验
 - 游戏服务端工程师（0.5年）
 - C++工程师（1.5年）
-- 能熟练使用C/C++，了解QT，OpenVR等库
+- 能熟练使用C/C++，熟悉QT，OpenVR等库
 - 能熟练使用Haskell，擅长函数式编程
 
 ### 工作经历
