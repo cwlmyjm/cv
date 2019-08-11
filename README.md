@@ -45,10 +45,10 @@
 - KAT V-Speed & V-Speed Core
     - 2018/03-2018/06
     - 通过Project CarS2的数据接口读取游戏中车子的姿态数据，并通过计算转换为模拟器的控制数据，并发送给伺服电机控制模拟器做出接近游戏中车子的姿态，给游戏玩家提供类似真实驾驶的感觉。为了完成姿态数据转换的算法，需要在工厂对原型机进行调试，并不断与产品对接完善原型机体验。
-- Concurrency In Mini-Triangle
+- [Concurrency In Mini-Triangle](https://github.com/cwlmyjm/GraduationProject)
     - 2016/10-2017/04（毕业设计）
     - 此项目的目的是对一个已存在的简单语言（Mini-Triangle）扩展多线程相关的功能，使得扩展后的语言能够支持简单的多线程编程，并实现互斥锁和信号量等简单的功能。该项目实现语言为Haskell。
-- Note-Pages
+- [Note-Pages](https://github.com/cwlmyjm/note-pages)
     - 2016/06-2016/09（个人项目）
     - 通过在有道云笔记中创建指定目录，Note-Pages可以读取其中的内容，并将其转换成网页形式展示，即通过云笔记进行网站内容的管理。已实现登录系统，完成与有道云笔记数据连接，能够正确显示账户中的笔记内容，未完成前端设计。此项目基于php框架CodeIgniter开发。
 - FPS Game With Emotiv
