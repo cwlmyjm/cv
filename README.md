@@ -62,3 +62,8 @@
 - 诺丁汉大学
     - 2015年-2017年，一等学位。
     - BSc (Hons) Computer Science。
+
+### 证书荣誉
+- CET4（2014/12）
+- Undergraduate High Achievers Award 2015-2016（2016/9）
+- 大数据技术原理和应用（中国大学MOOC）（2018/2）
