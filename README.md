@@ -12,6 +12,7 @@
 - 能熟练使用C/C++，熟悉QT，OpenVR等库
 - 能熟练使用Haskell，擅长函数式编程
 - 能熟练使用GitHub，SVN等版本控制系统
+- 能熟练使用VS，CodeBlocks等集成开发环境
 - 了解Python，NodeJS等脚本语言
 
 ### 工作经历
