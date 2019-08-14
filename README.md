@@ -1,4 +1,4 @@
-<img src="http://www.ysyy.xyz/photo.jpg" width = "150" align=right>
+<img src="https://raw.githubusercontent.com/cwlmyjm/cv/master/photo.jpg" width = "150" align=right>
 
 # 姚锦铭
 ## C++工程师
