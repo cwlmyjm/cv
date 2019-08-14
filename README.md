@@ -1,3 +1,5 @@
+<img src="http://www.ysyy.xyz/photo.jpg" width = "150" align=right>
+
 # 姚锦铭
 ## C++工程师
 > 手机：171********    
